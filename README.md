@@ -1,8 +1,8 @@
 # screenshots
 这是一个基于PyQt5的截图小工具
 
-##使用方法  
-  依赖库：  python3,PyQt5
+## 使用方法  
+  依赖库：  python3,PyQt5  
   运行：    python screenshots.py  
     
     
@@ -10,7 +10,8 @@
 
 ###动态演示  
 
-![](演示.gif)  
+![screenshots](演示.gif)  
 
 ###结果  
-![](截图.png)
+![screenshots](2.png)  
+![screenshots](3.png)
