@@ -6,12 +6,14 @@
   运行：    python screenshots.py  
     
     
-##演示  
+## 演示  
 
-###动态演示  
+### 动态演示  
 
 ![screenshots](演示.gif)  
-
-###结果  
+  
+  
+### 结果  
 ![screenshots](2.png)  
+
 ![screenshots](3.png)
